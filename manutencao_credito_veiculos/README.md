@@ -1,4 +1,4 @@
-# Classificação de Veículos - Financiamento
+# Behavior Score - Financiamento
 
 Este projeto tem como objetivo criar um modelo preditivo para o produto de financiamento de veículos, visando prever a inadimplência dos clientes com base em variáveis como renda, limite de cartão, entre outros. Testamos diversos algoritmos de machine learning, com destaque para o uso de LightGBM, XGBoost e Árvore de Decisão.
 
@@ -54,7 +54,7 @@ Embora o modelo atual tenha sido bem-sucedido, sua performance encontra-se no li
 
 O projeto contém um único arquivo Jupyter Notebook:
 
-- **classificacao_veiculos_modelo.ipynb**: Contém todo o fluxo de pré-processamento, modelagem e avaliação de performance.
+- **behavior_score_veiculos.ipynb**: Contém todo o fluxo de pré-processamento, modelagem e avaliação de performance.
 
 Para rodar o projeto, basta abrir o arquivo `.ipynb` e seguir o fluxo proposto, utilizando as bibliotecas mencionadas abaixo.
 
